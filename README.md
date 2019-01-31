@@ -1,5 +1,7 @@
 # README
 
-<h2<THP - day 19 - Project FreeDoc</h2>
+<h2> FREEDOC DATABASE PROJECT ON THP - J19</h2>
 
-<h3>Works fine</h3>
+<h3> by Victor & Laurence - Lorient</h3>
+
+<p>This project is working fine.</p>
